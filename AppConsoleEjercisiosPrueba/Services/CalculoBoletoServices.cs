@@ -12,7 +12,7 @@ namespace Services
         {
             double BoletoFinal = 0;
 
-            if (kilometros <= 800 && dias >= 7)
+            if (kilometros >= 800 && dias >= 7)
             { double boleto = kilometros * PRECIOBOLETO;
                double descuento = PORCENTAJE * boleto;
                 BoletoFinal = boleto - descuento ;

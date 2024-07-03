@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj": {}
+    "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj": {
+    "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj",
+        "projectUniqueName": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj",
         "projectName": "Commons",
-        "projectPath": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj",
+        "projectPath": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Commons\\Commons.csproj",
         "packagesPath": "C:\\Users\\Caler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Commons\\obj\\",
+        "outputPath": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Commons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caler\\AppData\\Roaming\\NuGet\\NuGet.Config",

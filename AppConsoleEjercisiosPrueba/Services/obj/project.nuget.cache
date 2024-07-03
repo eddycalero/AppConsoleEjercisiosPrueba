@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYdrC0r6PAjT+USc6ZDIEnj0gKjnXfmq5Yckf0V28kNKer+RX+SUHUrQ3+SorfoIrkJQu0vtAPMdtZUK11eXEg==",
+  "dgSpecHash": "VIrR8JdFCdeVR+o4OuP6jJpt3dhPQL1w0u5pv+CpnCajyrg1EjUzdyZG0leVwLbRt/Cc0REpe7grZvrp5LWxww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Services\\Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

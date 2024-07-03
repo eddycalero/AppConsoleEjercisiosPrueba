@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\ToolsAppConsole\\ToolsAppConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\ToolsAppConsole\\ToolsAppConsole.csproj",
       "projectName": "ToolsAppConsole",
-      "projectPath": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\ToolsAppConsole\\ToolsAppConsole.csproj",
+      "projectPath": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\ToolsAppConsole\\ToolsAppConsole.csproj",
       "packagesPath": "C:\\Users\\Caler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\ToolsAppConsole\\obj\\",
+      "outputPath": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\ToolsAppConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Caler\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Caler\\Documents\\Ejemplos .Net\\AppConsoleEjercisiosPrueba\\Services\\Services.csproj"
+            "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Caler\\Documents\\AppConsoleEjercisiosPrueba\\AppConsoleEjercisiosPrueba\\Services\\Services.csproj"
             }
           }
         }
